@@ -1,5 +1,8 @@
-### Hi there 👋
+### About me 👋
 
+👨‍🎓 Postgraduate student in [Computer Science](http://www.en.cs.zju.edu.cn/) from [Zhejiang University](http://www.zju.edu.cn/english)  
+🌱 Learning NLP/DL at [K-Lab](https://github.com/zjunlp)
+📫 You can reach me at: lilq1285@163.com
 <!--
 **Riroaki/Riroaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My github stats
+[![Riroaki's github stats](https://github-readme-stats.vercel.app/api?username=Riroaki)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riroaki)](https://github.com/anuraghazra/github-readme-stats)
